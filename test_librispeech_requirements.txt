@@ -1,0 +1,3 @@
+jiwer
+pandas
+torchaudio

@@ -9,3 +9,12 @@ thumbs.db
 .DS_Store
 .idea
 
+# vscode
+.vscode/
+
+# ckpt
+*.pt
+test_sample/temp/
+
+# waveform
+*.wav
